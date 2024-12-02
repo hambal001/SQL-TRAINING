@@ -1,0 +1,15 @@
+referencing
+relative Referencing: refencing a cell in the same row.(e.g c3+f4)
+disadvantage: there is a barrier when auto filling
+
+Absolute Referencing makes a cell value constant.
+=C9+D$9 the dollar sign makes it constant
+
+ mixed referencing =C$9+D$9
+
+
+product fnction =PRODUCT(c20,d20)
+
+count function:
+
+now function: allows multiple users to work on a single sheet at the same time.

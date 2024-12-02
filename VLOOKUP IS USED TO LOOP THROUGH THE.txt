@@ -1,0 +1,20 @@
+VLOOKUP: IS USED TO LOOP THROUGH THE ARRAY vertically
+A TABL ARRY IS CALLED VLOOKUP 
+
+VLOOK UP SEAECHES VERTICAL DATA
+HLOOKUP SEARCHES HORIZONTAL DATA
+
+TO PERFORM A TRANSPOSE 
+U HIGHLIGHT THE NEW TABLE AND USE THE TRANSPOS KEYWORD
+
+SO SUPPOSE U WANT 
+
+
+
+---NOTE <>: MEANS NOT EQUALS TO IN SQL
+LIMIT
+
+Consider scenario, You can make an investment that pays N100,000 after 18 years at an 	
+annual interest of 8%. You need to find out the amount that should be invested today	
+so tha you get a future value of N100,000. to meet this requirement, you should use the	
+PV Function. The following figure shows the present value of an investment.	
